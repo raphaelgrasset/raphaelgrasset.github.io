@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 01 Nov 2020 22:06:00 +0100</lastBuildDate><atom:link href="https://www.raphaelgrasset.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects</title>
+      <link>https://www.raphaelgrasset.net/projects/</link>
+      <pubDate>Sun, 08 Nov 2020 19:19:43 +0100</pubDate>
+      
+      <guid>https://www.raphaelgrasset.net/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome</title>
       <link>https://www.raphaelgrasset.net/post/welcome/</link>
       <pubDate>Sun, 01 Nov 2020 22:06:00 +0100</pubDate>
@@ -22,7 +31,7 @@
       <pubDate>Sun, 01 Nov 2020 21:28:55 +0100</pubDate>
       
       <guid>https://www.raphaelgrasset.net/about/</guid>
-      <description>Raphael Grasset</description>
+      <description>Bio Raphaël Grasset is a technical fellow at PTC. He was previously principal engineer at PTC (Nov 2015-June 2018), staff engineer at Qualcomm Research Austria (Nov 2013- Nov 2015), senior researcher (2011-2014) at the Institute for Computer Graphics and Vision (TU-Graz, Austria) and affiliated researcher at the Human Interface Technology Laboratory New Zealand (University of Canterbury, New Zealand).</description>
     </item>
     
   </channel>
