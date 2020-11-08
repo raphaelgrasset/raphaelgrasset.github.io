@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Raphael Grasset - Website</title>
-    <link>https://raphaelgrasset.github.io/post/</link>
+    <link>https://www.raphaelgrasset.net/post/</link>
     <description>Recent content in Posts on Raphael Grasset - Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2020 22:06:00 +0100</lastBuildDate><atom:link href="https://raphaelgrasset.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2020 22:06:00 +0100</lastBuildDate><atom:link href="https://www.raphaelgrasset.net/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://raphaelgrasset.github.io/post/welcome/</link>
+      <link>https://www.raphaelgrasset.net/post/welcome/</link>
       <pubDate>Sun, 01 Nov 2020 22:06:00 +0100</pubDate>
       
-      <guid>https://raphaelgrasset.github.io/post/welcome/</guid>
+      <guid>https://www.raphaelgrasset.net/post/welcome/</guid>
       <description></description>
     </item>
     
