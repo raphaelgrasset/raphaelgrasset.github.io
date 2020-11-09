@@ -22,7 +22,8 @@
       <pubDate>Sun, 01 Nov 2020 22:06:00 +0100</pubDate>
       
       <guid>https://www.raphaelgrasset.net/post/welcome/</guid>
-      <description></description>
+      <description>Or.. Welcome back !
+Moved my previous website to a different new host (github pages) and switched from wordpress technology to hugo technology (way simpler to use with benefits of git along the way for versioning).</description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@
       <pubDate>Sun, 01 Nov 2020 21:28:55 +0100</pubDate>
       
       <guid>https://www.raphaelgrasset.net/about/</guid>
-      <description>Bio Raphaël Grasset is a technical fellow at PTC. He was previously principal engineer at PTC (Nov 2015-June 2018), staff engineer at Qualcomm Research Austria (Nov 2013- Nov 2015), senior researcher (2011-2014) at the Institute for Computer Graphics and Vision (TU-Graz, Austria) and affiliated researcher at the Human Interface Technology Laboratory New Zealand (University of Canterbury, New Zealand).</description>
+      <description>Bio Raphaël Grasset is a technical fellow at PTC.
+He is a recognized AR/MR/XR expert, both in term of research and development.</description>
     </item>
     
   </channel>
