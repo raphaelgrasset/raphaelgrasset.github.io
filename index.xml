@@ -6,14 +6,37 @@
     <description>Recent content on Raphael Grasset - Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2020 22:06:00 +0100</lastBuildDate><atom:link href="https://www.raphaelgrasset.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 19:06:35 +0100</lastBuildDate><atom:link href="https://www.raphaelgrasset.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vuforia Engine API</title>
+      <link>https://www.raphaelgrasset.net/projects/vuforiaengineapi/vuforiaengineapi/</link>
+      <pubDate>Sat, 29 Jan 2022 19:06:35 +0100</pubDate>
+      
+      <guid>https://www.raphaelgrasset.net/projects/vuforiaengineapi/vuforiaengineapi/</guid>
+      <description>Company: PTC
+Duration: 2015-2021
+Project Scope: Leading the design and development of the Vuforia Engine (native) API.</description>
+    </item>
+    
+    <item>
+      <title>Entreprise AR Framework</title>
+      <link>https://www.raphaelgrasset.net/projects/arscalableframework/arcscalableframework/</link>
+      <pubDate>Sat, 29 Jan 2022 18:42:03 +0100</pubDate>
+      
+      <guid>https://www.raphaelgrasset.net/projects/arscalableframework/arcscalableframework/</guid>
+      <description>Company: PTC
+Duration: 2020-present
+Project Scope: Development of a new high level, modular, scalable industrial AR framework used as the new software stack for all Vuforia Solutions (Instruct, Expert Capture, etc.</description>
+    </item>
+    
     <item>
       <title>Projects</title>
       <link>https://www.raphaelgrasset.net/projects/</link>
       <pubDate>Sun, 08 Nov 2020 19:19:43 +0100</pubDate>
       
       <guid>https://www.raphaelgrasset.net/projects/</guid>
-      <description></description>
+      <description>Industrial AR Framework (2020-present, Project &amp;amp; Technical Lead)
+Vuforia Engine API (2015-2020, Technical Lead)</description>
     </item>
     
     <item>

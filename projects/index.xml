@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raphael Grasset - Website</title>
+    <link>https://www.raphaelgrasset.net/projects/</link>
+    <description>Recent content in Projects on Raphael Grasset - Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jan 2022 19:06:35 +0100</lastBuildDate><atom:link href="https://www.raphaelgrasset.net/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vuforia Engine API</title>
+      <link>https://www.raphaelgrasset.net/projects/vuforiaengineapi/vuforiaengineapi/</link>
+      <pubDate>Sat, 29 Jan 2022 19:06:35 +0100</pubDate>
+      
+      <guid>https://www.raphaelgrasset.net/projects/vuforiaengineapi/vuforiaengineapi/</guid>
+      <description>Company: PTC
+Duration: 2015-2021
+Project Scope: Leading the design and development of the Vuforia Engine (native) API.</description>
+    </item>
+    
+    <item>
+      <title>Entreprise AR Framework</title>
+      <link>https://www.raphaelgrasset.net/projects/arscalableframework/arcscalableframework/</link>
+      <pubDate>Sat, 29 Jan 2022 18:42:03 +0100</pubDate>
+      
+      <guid>https://www.raphaelgrasset.net/projects/arscalableframework/arcscalableframework/</guid>
+      <description>Company: PTC
+Duration: 2020-present
+Project Scope: Development of a new high level, modular, scalable industrial AR framework used as the new software stack for all Vuforia Solutions (Instruct, Expert Capture, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
